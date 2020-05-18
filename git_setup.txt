@@ -1,0 +1,25 @@
+step1: git clone git@<repository_link>
+
+Ex:git clone git@github.com:xamps/Windows_Utility.git
+
+step2: cd <folder>
+
+Ex: cd Windows_Utility/
+
+step3: git status
+
+step4: git diff
+
+step5: git add <file_name>
+
+Ex: git add *
+
+step6: git status
+
+step7: git commit -m "Repository_name"
+
+Ex: git commit -m "Windows_Utility"
+
+step8: git push
+
+
