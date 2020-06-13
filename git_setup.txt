@@ -22,4 +22,13 @@ Ex: git commit -m "Windows_Utility"
 
 step8: git push
 
+step9: git reset --soft HEAD~1
+
+step10:git status
+
+step11:git reset
+
+step12:git status
+
+step13:git push -f
 
