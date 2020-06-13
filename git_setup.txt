@@ -1,3 +1,5 @@
+step0: ssh-keygen -t rsa -b 4096 -C "argha91@hotmail.com"
+
 step1: git clone git@<repository_link>
 
 Ex:git clone git@github.com:xamps/Windows_Utility.git
